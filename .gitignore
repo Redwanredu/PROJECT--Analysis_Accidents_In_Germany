@@ -14,3 +14,8 @@ main/backend/OpenAPI/routes/__pycache__/regions_routes.cpython-312.pyc
 main/backend/OpenAPI/routes/__pycache__/regions.cpython-312.pyc
 main/backend/OpenAPI/routes/__pycache__/population_routes.cpython-313.pyc
 main/backend/OpenAPI/routes/__pycache__/population_routes.cpython-312.pyc
+main/backend/OpenAPI/__pycache__/app.cpython-312.pyc
+main/backend/OpenAPI/__pycache__/app.cpython-313.pyc
+main/backend/OpenAPI/__pycache__/database.cpython-312.pyc
+main/backend/OpenAPI/__pycache__/database.cpython-313.pyc
+main/backend/OpenAPI/__pycache__/swagger_api.cpython-312.pyc
