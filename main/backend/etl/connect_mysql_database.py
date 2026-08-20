@@ -12,7 +12,7 @@ cursor.execute("""
 CREATE DATABASE IF NOT EXISTS accidents_germany
 """)
 
-print("Database created successfully!")
+print("Database created   successfully!")
 
 cursor.close()
 connection.close()
