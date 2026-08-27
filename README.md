@@ -77,6 +77,7 @@ Execute the ETL scripts in the following order:
 python etl/import_regions_to_mysql.py
 ```
 
+
 ```bash
 python etl/import_population_to_mysql.py
 ```
